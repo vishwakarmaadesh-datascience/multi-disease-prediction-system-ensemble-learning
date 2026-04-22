@@ -28,3 +28,7 @@ Early diagnosis is critical in healthcare. This project leverages historical pat
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
    cd YOUR_REPO_NAME
+2. Install Dependencies
+ pip install -r requirements.txt
+3.Launch app
+streamlit run app.py 
