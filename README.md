@@ -12,7 +12,7 @@ Early diagnosis is critical in healthcare. This project leverages historical pat
 * **Environment:** Google Colab / Local IDE
 
 ##  Key Features
-* **Multi-Disease Support:** Predicts [Insert Diseases, e.g., Diabetes, Heart Disease, Parkinson's] within a single app.
+* **Multi-Disease Support:** Predicts [Insert Diseases, e.g., Diabetes, Heart Disease] within a single app.
 * **Ensemble Learning:** Utilizes advanced algorithms to minimize false negatives.
 * **Interactive UI:** Simple sliders and input fields for medical parameters.
 * **Data Preprocessing:** Includes handling missing values, feature scaling, and categorical encoding.
@@ -32,3 +32,7 @@ Early diagnosis is critical in healthcare. This project leverages historical pat
  pip install -r requirements.txt
 3.Launch app
 streamlit run app.py 
+
+#Author 
+Adesh Vishwakarma 
+vishwakarmaadesh90@gmail.com
