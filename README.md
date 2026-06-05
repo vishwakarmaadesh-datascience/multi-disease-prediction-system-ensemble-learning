@@ -33,6 +33,6 @@ Early diagnosis is critical in healthcare. This project leverages historical pat
 3.Launch app
 streamlit run app.py 
 
-#Author 
+
 Adesh Vishwakarma 
 vishwakarmaadesh90@gmail.com
