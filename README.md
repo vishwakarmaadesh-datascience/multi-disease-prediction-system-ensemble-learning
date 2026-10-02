@@ -33,13 +33,16 @@ Early diagnosis is critical in healthcare. This project leverages historical pat
 3.Launch app
 streamlit run app.py 
 ## Streamlit Prediction
-1. **For Diabetes:**
+1. For Diabetes:
 <img width="466" height="759" alt="image" src="https://github.com/user-attachments/assets/67a93cfe-47f7-48ef-9399-8942c6d3e3f1" />
-2. **For Stroke:**
+
+2. For Stroke:
 <img width="464" height="862" alt="image" src="https://github.com/user-attachments/assets/67783d9c-75fd-4beb-a656-00f66fd64182" />
-3. **For Heart:**
+
+3. For Heart:
 <img width="314" height="689" alt="image" src="https://github.com/user-attachments/assets/ca8d66c3-a9f8-4c0e-9d83-93630f6578f6" />
-4. **For Liver:**
+
+4. For Liver:
 <img width="465" height="894" alt="image" src="https://github.com/user-attachments/assets/38e5639e-1bfe-42cd-8aa7-62fc665b43ad" />
 
 
