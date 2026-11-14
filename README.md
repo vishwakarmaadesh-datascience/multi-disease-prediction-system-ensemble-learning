@@ -218,7 +218,7 @@ MSc Data Science Student | BSc Data Science Graduate | Aspiring Machine Learning
 
 - **GitHub:** https://github.com/vishwakarmaadesh-datascience
 - **LinkedIn:** https://www.linkedin.com/in/adesh-vishwakarma-53108b324
-- **Portfolio:** 
+- **Live Demo:** https://multi-disease-prediction-system-ensemble-learning-npulxwhpkffa.streamlit.app/
 
 ---
 
