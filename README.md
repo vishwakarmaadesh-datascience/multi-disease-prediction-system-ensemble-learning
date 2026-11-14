@@ -125,7 +125,6 @@ Multi-Disease-Prediction-System/
     └── images/
 ```
 
-*Note: The structure represents the intended project organization. Update it if your actual repository differs.*
 
 ## Installation and Setup
 
@@ -173,7 +172,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The application will be accessible at:
+Then the application will be accessible at:
 
 ```text
 http://localhost:8501
